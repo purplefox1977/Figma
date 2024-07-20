@@ -54,3 +54,50 @@ controlar el espacio alrededor de nuestros elementos HTML usando la propiedad ma
 <li> cómo usar la propiedad justifyContent con el valor spaceBetween para crear espacio entre elementos dentro de un contenedor Flexbox</li>
 
 </ol>
+<h1>Estilizando el texto</h1>
+<p>Estilizar el texto en HTML y CSS.</p>   
+
+<ol type="I">
+<li> Primero, ajustamos el ancho de una sección usando la propiedad width en CSS.</li>
+<li> Luego, modificamos el margen para mejorar el espacio entre los elementos.</li>
+<li> Después, cambiamos el tamaño de la fuente del título y del párrafo usando la propiedad fontsize, tomando como referencia el diseño en Figma.</li>
+</ol>
+
+
+<h1>Importando las fuentes</h1>
+<p>Importar fuentes de Google Fonts para usarlas en nuestro proyecto web. </p> 
+
+<ol type="I">
+<li>Primero, buscamos la fuente que queremos en Google Fonts y copiamos el código import que nos proporciona. </li>
+<li>Luego, pegamos este código en nuestro archivo CSS para importar la fuente.</li>
+<li>Finalmente, usamos la propiedad fontfamily en nuestro CSS para aplicar la fuente a los elementos HTML que queremos.</li>
+</ol>
+
+<a href="https://fonts.google.com/"></a>
+<h1>Posicionando los botones</h1>
+
+<ol type="A">
+<li>Agrupar botones utilizando la etiqueta <-div>, que no es semántica, solo crea un agrupamiento. </li>
+<li>También utilizamos la clase class para aplicar estilos a los botones.</li>
+<li>Para separar los botones, usamos la propiedad justifycontent con el valor spacebetween dentro de un display flex.</li>
+</ol>
+
+<h1>Estilizando los botones</h1>
+<p>Para estilizar botones en HTML y CSS.</p> 
+
+<ol type="A">
+<li>Primero, creamos una clase para cada botón en nuestro HTML. </li>
+<li>Luego, en nuestro style.css, usamos la clase para aplicar estilos como ancho, color de fondo, alineación de texto, relleno (padding) y redondeo de bordes (borderradius).</li>
+<li>También cambiamos la fuente, el tamaño de la fuente y el peso de la fuente para que coincida con el diseño de Fig.</li>
+</ol>
+
+
+<h1>El recurso Gap</h1>
+<p>los espacios entre elementos en HTML y CSS usando Flexbox.
+ Luego, exploramos la propiedad flexdirection para cambiar la orientación de los elementos en un contenedor Flexbox.</p>
+
+<ol type="A">
+<li>Primero, vimos cómo modificar el margen de un elemento para crear espacio alrededor de él. </li>
+<li>Finalmente, aprendimos a utilizar la propiedad gap para crear un espacio uniforme entre los elementos dentro de un contenedor Flexbox..</li>
+<li>Pasamos de una disposición en línea a una disposición en columna</li>
+</ol>

@@ -1,6 +1,9 @@
 /* Cuando coloco unasterisco"*" es que estoy haciendo un 
 cambio universal en todo el HTML*/
 
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 *{
     padding: 0%;
     margin: 0%;
@@ -19,9 +22,46 @@ body{
 .presentacion{
     display: flex;/* alinea el contenido del main (por defecto esta config en linea)*/
     align-items: center;/* align-items  propiedad que centra el contenido*/
-    margin: 5%;/*ccrea un poco de espacio afuera de loselementos*/
-    justify-content:space-between ;/* justify-content:Se crea espacios entreelementos que estan muy pegados el uno al otro*/
-}   
-h1{
+    /* los elementos estan lejos unos de otros el texto y la img, tiene que 
+    ver con el margen puesto en la clase presentacion*/
+    /*
+    margin: 10%;/*crea un poco de espacio afuera de loselementos*/ 
+    /*esto va en la primera etapa elementos lejos*/
+    margin: 10% 15% ;/* agregamos otra medida entonces la primera pertenece al vertical y la segunda al horizontal*/
+    justify-content:space-between;/* justify-content:Se crea espacios entre elementos 
+                                    que estan muy pegados el uno al otro*/
+}  
+.contenido{
+    width: 615px;/*Cambiar el tamaño de la seccion*/  
+    display: flex;/*Si agrego esto solo, se alinea como linea estose puede cambiar agregando flex-direction colum*/
+    /* los elementos estan lejos unos de otros el texto y la img, tiene que ver con el margen puesto en la clase presentacion*/
+    flex-direction: column;/*restaura a la posicion encolumnada*/
+    gap: 40px;/*Sequiere crear espacio con gap, crea un espacio entre cada uno de los elementos*/
+} 
+.contenido__titulo{
+    font-family: "Krona One", sans-serif;/*fuente importada*/
+    font-size: 36px;/*propiedadquese usa para la altura de lafuente*/
+}
+.contenido__texto{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+.enlaces{
+    display: flex;
+    justify-content: space-between;/*Se quiere separar los botones se usa una propiedad*/
+        /*space-between para crear espcio entre lso dos elementos*/  
+}
+.enlaces__link{
+    width: 280px;/*ancho delboton*/
+    background-color: #22D4FD;/*color de fondo*/
+    text-align: center;/*alinear las palabras al medio del boton*/
+    padding:21.5px 0px ;/*Ponemos 2 valores en lugar de 1, el primer valor el el valor del vertical
+                         el segundo valor es el horizontal espacio entre la palabra y el borde del boton*/  
+    border-radius: 16px; /*para redondear las puntas del boton*/ 
+    font-family: "Montserrat", sans-serif;  
+    font-size:24px ;     
+    font-weight: 600;
+    text-decoration: none;/*para sacar las lineas debajo de las palabras en los botones*/
+    color: #000000;
 
 }
