@@ -1,6 +1,6 @@
 <h1>El proyecto en Figma</h1>
 
-![Inicial](https://github.com/user-attachments/assets/98531685-f84b-4741-8a14-f5e935f3a201)
+![Inicial](https://github.com/user-attachments/assets/ec55b210-99a6-41a8-87ae-9e485f40d0fe)
 
 <h3>En Figma, los diseñadores web crean el plano de tu sitio web.</h3>
 
