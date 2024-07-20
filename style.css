@@ -1,11 +1,27 @@
+/* Cuando coloco unasterisco"*" es que estoy haciendo un 
+cambio universal en todo el HTML*/
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
 body{
     background-color: #000000;/*color delescritorio*/
     color: #f6f6f6;/*cambio el color de las letras*/
+    height: 100vh;/*cambio para q el body ocupe toda lapantalla*/
+    box-sizing: border-box;/*Loselementos hijos quieren salir delelemento padre*/
+    /*Posicionar elementos en la pantalla*/
 }
 
 .tituloNegrita{
     color: #22D4FD;
 }
+.presentacion{
+    display: flex;/* alinea el contenido del main (por defecto esta config en linea)*/
+    align-items: center;/* align-items  propiedad que centra el contenido*/
+    margin: 5%;/*ccrea un poco de espacio afuera de loselementos*/
+    justify-content:space-between ;/* justify-content:Se crea espacios entreelementos que estan muy pegados el uno al otro*/
+}   
 h1{
 
 }
