@@ -23,8 +23,14 @@ La propiedad boxsizing, cómo usarla para evitar que los elementos hijos salgan 
 
 <p>Para evitar que los elementos hijos salgan de los elementos padres, podemos usar el valor borderbox para la propiedad boxsizing. Esto significa que el padding y el border se incluirán dentro del tamaño del elemento, y el elemento hijo no saldrá del elemento padre.</p>
 
+
 <a href="https://www.w3schools.com/css/css3_box-sizing.asp"></a>
 <a href ="https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing"></a>
+
+https://www.w3schools.com/css/css3_box-sizing.asp
+<br>
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
 
 <h3>En el content-box sale el elmento hijo del elemento padre</h3>
 <h3>En el border-box donde el elmento hijo no sale del elemento padre</h3>
@@ -42,7 +48,7 @@ La propiedad boxsizing, cómo usarla para evitar que los elementos hijos salgan 
 </ol>
 
 <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/"></a>
-
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 <h1>Alineando el contenido</h1>
 
@@ -72,7 +78,7 @@ controlar el espacio alrededor de nuestros elementos HTML usando la propiedad ma
 <li>Luego, pegamos este código en nuestro archivo CSS para importar la fuente.</li>
 <li>Finalmente, usamos la propiedad fontfamily en nuestro CSS para aplicar la fuente a los elementos HTML que queremos.</li>
 </ol>
-
+https://fonts.google.com/
 <a href="https://fonts.google.com/"></a>
 <h1>Posicionando los botones</h1>
 
