@@ -107,3 +107,4 @@ https://fonts.google.com/
 <li>Finalmente, aprendimos a utilizar la propiedad gap para crear un espacio uniforme entre los elementos dentro de un contenedor Flexbox..</li>
 <li>Pasamos de una disposición en línea a una disposición en columna</li>
 </ol>
+

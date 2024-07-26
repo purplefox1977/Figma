@@ -50,6 +50,10 @@ body{
     display: flex;
     justify-content: space-between;/*Se quiere separar los botones se usa una propiedad*/
         /*space-between para crear espcio entre lso dos elementos*/  
+    flex-direction: column;/**cambio de posicionamiento de lina a columna/
+    /*ANTES PARA CENTRAR PONIAMOS  justify-content: center; esto es cuando el eje de los botones es horizontal*/
+    align-items: center;/*el eje de los botones es vertical*/
+    gap: 32px;/*Precionando la tecla  Alt + mouse entre las dos lineas te daelespacio*/
 }
 .enlaces__link{
     width: 280px;/*ancho delboton*/
@@ -63,5 +67,8 @@ body{
     font-weight: 600;
     text-decoration: none;/*para sacar las lineas debajo de las palabras en los botones*/
     color: #000000;
+
+}
+.enlaces-subtitulos{
 
 }
