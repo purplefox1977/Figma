@@ -28,5 +28,5 @@
 <li>Finalmente, aprendimos a crear espacio entre los botones utilizando la propiedad Gap.</li>
 </ol>
 
-![container](https://github.com/user-attachments/assets/645a2b04-7745-4173-bbd9-186a46d77484)
+container
 https://www.w3schools.com/css/css_border.asp
