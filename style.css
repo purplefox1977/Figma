@@ -57,22 +57,30 @@ body{
 
 }
 .enlaces__link{
-    width: 280px;/*ancho delboton*/
-    background-color: #22D4FD;/*color de fondo*/
+    /*width: 280px;ancho delboton*/
+    width: 378px;/*ancho delboton*/
+    /*background-color: #22D4FD;color de fondo*/
     text-align: center;/*alinear las palabras al medio del boton*/
     padding:21.5px 0px ;/*Ponemos 2 valores en lugar de 1, el primer valor el el valor del vertical
                          el segundo valor es el horizontal espacio entre la palabra y el borde del boton*/  
-    border-radius: 16px; /*para redondear las puntas del boton*/ 
+     /*border-radius: 16px;para redondear las puntas del boton*/
+    border-radius: 8px; /*para redondear las puntas del boton*/  
     font-family: "Montserrat", sans-serif;  
     font-size:24px ;     
     font-weight: 600;
     text-decoration: none;/*para sacar las lineas debajo de las palabras en los botones*/
-    color: #000000;
-
+    /*color: #000000;*/
+    color: #f6f6f6;
+    /*creamos elborde de los botones con border
+        1) espesor del borde en px
+        2) sepone el tipo de borde que deseamos usar
+        3)color del borde
+    */
+    border: 2px  solid #22D4FD;
 }
 .enlaces_subtitulos{
     font-family: "Krona One", sans-serif;/*fuente importada*/
     font-size: 24px;
     font-weight: 400;
-    /**/
+    
 }
