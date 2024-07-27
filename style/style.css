@@ -50,7 +50,7 @@ body{
     ver con el margen puesto en la clase presentacion*/
     /*
     margin: 10%;/*crea un poco de espacio afuera de loselementos*/ 
-    padding: 6% 15%;
+    padding: 3% 15%;/*  6% 15%;   10% 15%;*/
     /*esto va en la primera etapa elementos lejos*/
     /*margin: 10% 15% ; agregamos otra medida entonces la primera pertenece al vertical y la segunda al horizontal*/
     
@@ -69,7 +69,7 @@ body{
 }
 .contenido__titulo{
     font-family:var(--fuente-krona);/*fuente importada*/
-    font-size: 36px;/*propiedadquese usa para la altura de lafuente*/
+    font-size: 2.25rem; /*36px;propiedadquese usa para la altura de lafuente*/
 }
 .contenido__texto{
     font-size: 1.5rem;/*24px;*/

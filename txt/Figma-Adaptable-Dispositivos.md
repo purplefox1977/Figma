@@ -21,3 +21,13 @@ Puedes utilizar "em" para el tamaño de la fuente, el margen, el relleno y otras
 </ol>
 
 https://www.w3schools.com/cssref/css_units.php
+
+<h1>Conociendo y aplicando la unidade REM</h1>
+<p> La unidad de medida REM en CSS.</p>
+
+<ol type="A">
+<li>La unidad REM se basa en el tamaño de la fuente del elemento raíz (generalmente el <html>), que por defecto es de 16 píxeles. Esto significa que 1 REM equivale a 16 píxeles.</li>
+<li>La ventaja de usar REM es que facilita la creación de diseños responsivos, ya que el tamaño de la fuente se escala proporcionalmente al tamaño de la fuente del elemento raíz.</li>
+<li> Como cambiar los valores de fontsize de diferentes elementos a REM, haciendo cálculos para convertir los valores de píxeles a REM </li>
+
+<p>Recuerda que la idea es que el tamaño de la fuente se adapte al tamaño de la pantalla, manteniendo la legibilidad y la estética del diseño.</p>
