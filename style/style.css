@@ -38,7 +38,7 @@ body{
 }
 .header_menu_link{
     font-family:var(--fuente-monserrat);
-    font-size: 24px;
+    font-size: 1.5rem;/*24px;*/
     font-weight: 600;
     color: var(--color-terciario);
     text-decoration: none;
@@ -72,7 +72,7 @@ body{
     font-size: 36px;/*propiedadquese usa para la altura de lafuente*/
 }
 .contenido__texto{
-    font-size: 24px;
+    font-size: 1.5rem;/*24px;*/
     font-family: var(--fuente-monserrat);
 }
 .enlaces{
@@ -95,7 +95,7 @@ body{
      /*border-radius: 16px;para redondear las puntas del boton*/
     border-radius: 8px; /*para redondear las puntas del boton*/  
     font-family: var(--fuente-monserrat);  
-    font-size:24px ;     
+    font-size: 1.5rem;/*24px;*/    
     font-weight: 600;
     text-decoration: none;/*para sacar las lineas debajo de las palabras en los botones*/
     /*color: #000000;*/
@@ -112,7 +112,7 @@ body{
 }
 .enlaces_subtitulos{
     font-family: var(--fuente-krona);/*fuente importada*/
-    font-size: 24px;
+    font-size:  1.5rem;/*24px;*/
     font-weight: 400;
     
 }
@@ -127,6 +127,6 @@ body{
     color: var(--color-primario);
     text-align: center;
     font-family:var(--fuente-monserrat);  
-    font-size: 24px;
+    font-size:  1.5rem;/*24px;*/
     font-weight: 400;
 }
