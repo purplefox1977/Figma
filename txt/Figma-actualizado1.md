@@ -1,6 +1,6 @@
 <h1>Figma del proyecto actualizado </h1>
 
-![pantallaSobreMi](https://github.com/user-attachments/assets/e07a7f14-4f12-4f9a-8969-cbd112291244)
+
 
 ![pantallaInicial](https://github.com/user-attachments/assets/e3a839fa-fe91-4734-a2ee-ac80071a5734)
 
