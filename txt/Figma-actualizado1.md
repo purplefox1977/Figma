@@ -28,7 +28,8 @@
 <li>Finalmente, aprendimos a crear espacio entre los botones utilizando la propiedad Gap.</li>
 </ol>
 
-container
+![container](https://github.com/user-attachments/assets/7726b597-0d55-4512-85f9-2b72632588cb)
+
 https://www.w3schools.com/css/css_border.asp
  
  <h1> Estilizando los enlaces</h1>
@@ -61,8 +62,8 @@ Realiza la estilización de los botones según el nuevo diseño.</p>
 <li>Para agregar un icono a un botón, usamos la etiqueta <img> y la propiedad src para indicar la ruta de la imagen.</li>
 </ol>
 <p>La ruta de la imagen se compone de la carpeta Assets, el nombre del archivo de la imagen y la extensión del archivo (por ejemplo, .png).</p>
- 
- img:
+
+ ![img](https://github.com/user-attachments/assets/625cc238-5d9f-4aba-802b-9ad6725d752a)
 
  <h1>Posicionando los iconos</h1>
 
@@ -78,7 +79,7 @@ Realiza la estilización de los botones según el nuevo diseño.</p>
 
 <h1>Hover(cambia decolor al ponerse el cursor)</h1>
 
-img hover
+![hover](https://github.com/user-attachments/assets/d3800f2f-bb33-4041-bc9f-a0b5f0ea97b0)
 
 https://www.w3schools.com/cssref/sel_hover.php
 
