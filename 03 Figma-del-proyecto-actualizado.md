@@ -63,3 +63,45 @@ Realiza la estilización de los botones según el nuevo diseño.</p>
 <p>La ruta de la imagen se compone de la carpeta Assets, el nombre del archivo de la imagen y la extensión del archivo (por ejemplo, .png).</p>
  
  img:
+
+ <h1>Posicionando los iconos</h1>
+
+ <p>Convertimos los enlaces en contenedores al colocar la etiqueta IMG dentro de ellos.</p>
+
+ <ol>
+
+ <li>Usando la clase Link y la propiedad display: flex, alineamos los botones en una sola línea.</li>
+
+<li>Para centrar el contenido dentro de los botones, utilizamos la propiedad justifycontent: center.</li>
+<li>Finalmente, agregamos un espacio entre los iconos y las palabras usando un padding de 10px en la clase Link..</li>
+</ol>
+
+<h1> Estilizando los enlaces</h1>
+
+<p> Estilizamos los enlaces de nuestro proyecto web usando CSS llamado border para añadir el borde alrededor de los botones. Esta propiedad se utiliza para definir los valores de ancho del borde, estilo del borde y color del borde.
+</p>
+<ol type="I">
+<li>Empezamos por ajustar el estilo del subtítulo, usando las propiedades fontfamily, fontsize y fontweight.</li>
+<li> Quitamos el color de fondo de los enlaces y cambiamos el color del texto a un gris claro.</li>
+<li>Agregamos un borde a los enlaces usando la propiedad border, especificando el tamaño, el estilo (Solid) y el color. </li>
+<li>Exploramos otros estilos de borde, como Dotted, en la documentación de CSS.</li>
+<li>Finalmente, ajustamos el ancho de los enlaces y el redondeo de las esquinas para que coincidan con el diseño de Figma.</li>
+</ol>
+
+https://www.w3schools.com/css/css_border.asp
+<h3>Lo que hecho</h3>
+<p>
+Funciona la actualización del diseño de un proyecto en Figma;
+Posicionar los botones según el nuevo diseño mediante display: flex;
+Realiza la estilización de los botones según el nuevo diseño.</p>
+
+<h1>Iconos de las redes sociales</h1>
+
+
+<p>Aregar iconos a nuestros botones utilizando imágenes.</p>
+<ol>
+<li>Primero, creamos una carpeta llamada Assets para guardar todas nuestras imágenes. Luego, colocamos las imágenes de los iconos dentro de esta carpeta.</li>
+
+<li>Para agregar un icono a un botón, usamos la etiqueta <img> y la propiedad src para indicar la ruta de la imagen.</li>
+</ol>
+<p>La ruta de la imagen se compone de la carpeta Assets, el nombre del archivo de la imagen y la extensión del archivo (por ejemplo, .png).</p>

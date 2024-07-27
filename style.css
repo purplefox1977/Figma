@@ -54,6 +54,7 @@ body{
     /*ANTES PARA CENTRAR PONIAMOS  justify-content: center; esto es cuando el eje de los botones es horizontal*/
     align-items: center;/*el eje de los botones es vertical*/
     gap: 32px;/*Precionando la tecla  Alt + mouse entre las dos lineas te daelespacio*/
+
 }
 .enlaces__link{
     width: 280px;/*ancho delboton*/
@@ -69,6 +70,9 @@ body{
     color: #000000;
 
 }
-.enlaces-subtitulos{
-
+.enlaces_subtitulos{
+    font-family: "Krona One", sans-serif;/*fuente importada*/
+    font-size: 24px;
+    font-weight: 400;
+    /**/
 }
