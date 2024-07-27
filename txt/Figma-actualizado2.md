@@ -1,5 +1,7 @@
 <h1>Navegando entre paginas</h1>
 
+![pantallaSobreMi](https://github.com/user-attachments/assets/48112269-1cf3-488b-95c3-8355b03a29d9)
+
  <ol>
 
 <li>Creamos una nueva página web llamada "about.html" y a vincularla a nuestra página principal "index.html"</li>
@@ -54,6 +56,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
 <p> La clase root haceun cambio en todos los elmentos de mi proyecto</p>
 
 img root
+![root](https://github.com/user-attachments/assets/9054e5d4-ea99-4670-a183-aa12f4f209b6)
 
 <p>Para saber si has aplicado correctamente los conceptos de la clase, puedes hacer lo siguiente:</p>
  <ol type='A'>
@@ -90,3 +93,4 @@ https://colorhunt.co/
 
 https://color.adobe.com/pt/create/color-wheel
 
+![atajo](https://github.com/user-attachments/assets/b3fbc831-bdc7-478d-8686-b4feb4edd41c)
