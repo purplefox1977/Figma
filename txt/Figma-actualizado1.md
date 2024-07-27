@@ -1,5 +1,9 @@
 <h1>Figma del proyecto actualizado </h1>
 
+
+
+![pantallaInicial](https://github.com/user-attachments/assets/e3a839fa-fe91-4734-a2ee-ac80071a5734)
+
 <p>nuestro proyecto de portafolio ha sido actualizado en Figma. 
 </p>
 <h3>El diseñador nos dio un nuevo diseño con cambios importantes:</h3>
