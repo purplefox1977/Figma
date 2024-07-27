@@ -182,3 +182,18 @@ Estás creando un sitio web y ha llegado el momento de estilizar el encabezado p
 Basándonos en el estilo actual del encabezado, parece que los enlaces pueden estar muy cerca uno del otro o del borde del encabezado, lo que puede afectar la legibilidad y la estética del sitio. Tu tarea es ajustar el espaciado interno (padding) de los enlaces "Home" y "Sobre mí" para asegurarte de que tengan un espaciado adecuado alrededor del texto. Esto hará que el encabezado sea más atractivo y fácil de usar.</li>
 
 </ol>
+
+<h1>Estilizando el encabezado</h1>
+
+https://www.w3schools.com/css/css_padding.asp
+
+<p>estilizar el encabezado de nuestra página web.  </p>
+ <ol>
+ 
+<li>Primero, organizamos el código CSS para que coincida con el orden del HTML.</li>
+<li>Luego, creamos las clases CSS para el encabezado, el menú y los enlaces.</li>
+<li>Cambiamos la fuente, el tamaño y el peso de la fuente de los enlaces. </li>
+    <li>También agregamos un color a los enlaces y un espacio entre el contenido y el borde del encabezado.</li>
+    <li>Utilizamos la propiedad padding para crear espacio dentro del encabezado y la propiedad gap de flexbox para crear espacio entre los enlaces. </li>
+    <li>Finalmente, ajustamos el espacio entre el encabezado y el contenido principal utilizando la propiedad padding en la clase de presentación.</li>
+ </ol>

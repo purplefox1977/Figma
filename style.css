@@ -16,8 +16,26 @@ body{
     /*Posicionar elementos en la pantalla*/
 }
 
-.tituloNegrita{
+.header{
+    padding: 2% 0 0 15%;/*padding-top 
+                     /padding-right derecha 
+                     /padding-bottom  parte de abajo del header
+                     /padding-left valor de la izquierda*/
+}
+.header_menu{
+    display: flex;/*Creamosun espacioentre losdos enlaces*/
+    gap: 80px;/* utilizamosla propiedad de flex box*/
+}
+.header_menu_link{
+    font-family:"Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
     color: #22D4FD;
+    
+    
+
+
+
 }
 .presentacion{
     display: flex;/* alinea el contenido del main (por defecto esta config en linea)*/
@@ -26,8 +44,10 @@ body{
     ver con el margen puesto en la clase presentacion*/
     /*
     margin: 10%;/*crea un poco de espacio afuera de loselementos*/ 
+    padding: 6% 15%;
     /*esto va en la primera etapa elementos lejos*/
-    margin: 10% 15% ;/* agregamos otra medida entonces la primera pertenece al vertical y la segunda al horizontal*/
+    /*margin: 10% 15% ; agregamos otra medida entonces la primera pertenece al vertical y la segunda al horizontal*/
+    
     justify-content:space-between;/* justify-content:Se crea espacios entre elementos 
                                     que estan muy pegados el uno al otro*/
 }  
@@ -38,6 +58,9 @@ body{
     flex-direction: column;/*restaura a la posicion encolumnada*/
     gap: 40px;/*Sequiere crear espacio con gap, crea un espacio entre cada uno de los elementos*/
 } 
+.tituloNegrita{
+    color: #22D4FD;
+}
 .contenido__titulo{
     font-family: "Krona One", sans-serif;/*fuente importada*/
     font-size: 36px;/*propiedadquese usa para la altura de lafuente*/
