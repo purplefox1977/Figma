@@ -129,3 +129,32 @@ https://www.w3schools.com/cssref/sel_hover.php
 <li>Primero, vimos un ejemplo de cómo aplicar hover a una etiqueta.</li>
 <li>Luego, aprendimos a aplicarlo a una clase, lo que nos permite cambiar el color de fondo de un botón cuando el cursor está sobre él.</li>
  </ol>
+
+ <h1>Desarrollando el footer</h1>
+
+ <p>Creamos un footer para nuestra página web. </p>
+ 
+ <ol>
+
+<li>Primero, agregamos una etiqueta <-footer> a nuestro HTML y dentro de ella, un párrafo <-p> con el texto "Desarrollo por Alura Latente".</li>
+    <li>Luego, creamos una clase llamada "footer" para la etiqueta <-footer> y le aplicamos un color de fondo y un padding.</li>
+    <li> Para centrar el texto del footer y cambiar su color y fuente, usamos las propiedades CSS textalign, color y fontfamily, fontsize y fontweight.</li>
+    <li>Finalmente, quitamos la propiedad height: 100vh del body para que el footer se mostrara correctamente. </li>
+ </ol>
+  
+
+   <h1>Desarrollando el header</h1>
+
+ <p>crear el header (encabezado) de nuestra página web. Para ello, utilizamos la etiqueta nav para la navegación y la etiqueta a para crear los enlaces "Home" y "Sobre mí". </p>
+ <ol>
+
+<li> Tienes una etiqueta <-header> en tu archivo HTML.</li>
+<li>Dentro de la etiqueta <-header>, tienes una etiqueta <-nav> para la navegación.</li>
+<li>Dentro de la etiqueta <-nav>, tienes dos etiquetas <-a> para los enlaces "Home" y "Sobre mí".</li>
+<li>Cada etiqueta <-a> tiene el atributo href con el enlace correspondiente.</li>
+
+<li>Las etiquetas <-header>, <-nav> y <-a> tienen las clases correctas: </li>
+<li>header para la etiqueta <-header></li>
+<li>header_menu para la etiqueta <-nav></li>
+<li>header__menu__link para las etiquetas <-a></li>
+ </ol>
