@@ -53,10 +53,12 @@ img root
     <li>Busca errores: Si tu código no funciona como esperas, busca errores en la consola del navegador. ¿Hay algún mensaje de error que te indique dónde está el problema?</li>
     <li>Pregunta a la comunidad: Si no puedes encontrar la solución por tu cuenta, no dudes en preguntar a la comunidad.</li>
  </ol>
-
+ 
  <h1> Aplicando las variables CSS</h1>
-<p>cómo utilizar las variables CSS para optimizar nuestro código.</p>
 
+![propiedades](https://github.com/user-attachments/assets/1d8c54b4-da04-4e45-a5c2-0f0885cdfe2c)
+
+<p>cómo utilizar las variables CSS para optimizar nuestro código.</p>
  <ol>
 <li>Primero, vimos cómo declarar las variables en el archivo CSS utilizando la sintaxis nombrevariable: valor;. Luego, aprendimos a aplicar estas variables en nuestro código HTML utilizando la función var(nombrevariable).</li>
     <li>Para ilustrar esto, cambiamos los colores y fuentes de nuestro proyecto utilizando variables. ¡Esto nos permitió cambiar el diseño de nuestro sitio web con solo modificar las variables en un solo lugar!</li>
