@@ -189,11 +189,20 @@ https://www.w3schools.com/css/css_padding.asp
 
 <p>estilizar el encabezado de nuestra página web.  </p>
  <ol>
- 
+
 <li>Primero, organizamos el código CSS para que coincida con el orden del HTML.</li>
 <li>Luego, creamos las clases CSS para el encabezado, el menú y los enlaces.</li>
 <li>Cambiamos la fuente, el tamaño y el peso de la fuente de los enlaces. </li>
     <li>También agregamos un color a los enlaces y un espacio entre el contenido y el borde del encabezado.</li>
     <li>Utilizamos la propiedad padding para crear espacio dentro del encabezado y la propiedad gap de flexbox para crear espacio entre los enlaces. </li>
     <li>Finalmente, ajustamos el espacio entre el encabezado y el contenido principal utilizando la propiedad padding en la clase de presentación.</li>
+ </ol>
+
+ <h1>Navegando entre paginas</h1>
+
+ <ol>
+
+<li>Creamos una nueva página web llamada "about.html" y a vincularla a nuestra página principal "index.html"</li>
+    <li>También aprendimos a organizar nuestros archivos CSS en una carpeta llamada "Style C" para mantener nuestro proyecto ordenado.</li>
+    <li> Hicimos algunos ajustes al estilo de nuestra página, como cambiar el padding del header y eliminar la decoración de texto del menú.</li>
  </ol>
