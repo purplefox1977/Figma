@@ -89,6 +89,8 @@ https://www.w3schools.com/cssref/sel_hover.php
 <li>Luego, aprendimos a aplicarlo a una clase, lo que nos permite cambiar el color de fondo de un botón cuando el cursor está sobre él.</li>
  </ol>
 
+![figmaBotones](https://github.com/user-attachments/assets/abbc142e-e506-48e6-9b50-88a68ed82e48)
+
  <h1>Desarrollando el footer</h1>
 
  <p>Creamos un footer para nuestra página web. </p>
