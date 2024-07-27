@@ -88,3 +88,5 @@ img root
 <h3>Paleta decolores que podemos utilizar</h3>
 https://colorhunt.co/
 
+https://color.adobe.com/pt/create/color-wheel
+
