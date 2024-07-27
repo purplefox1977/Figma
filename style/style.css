@@ -4,13 +4,23 @@ cambio universal en todo el HTML*/
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root{
+    --color-primario:#496989;/*#000000;*/
+    --color-secundario:#7cd6ca;/*#f6f6f6;*/
+    --color-terciario: #A8CD9F;/*#22D4FD;*/
+    --color-hover:#E2F4C5;/*#272727;*/
+
+    --fuente-monserrat:"Montserrat", sans-serif;
+    --fuente-krona:"Krona One", sans-serif;
+
+}
 *{
     padding: 0%;
     margin: 0%;
 }
 body{
-    background-color: #000000;/*color delescritorio*/
-    color: #f6f6f6;/*cambio el color de las letras*/
+    background-color: var(--color-primario);/*color delescritorio*/
+    color: var(--color-secundario);/*cambio el color de las letras*/
     /*height: 100vh;cambio para q el body ocupe toda lapantalla*/
     box-sizing: border-box;/*Loselementos hijos quieren salir delelemento padre*/
     /*Posicionar elementos en la pantalla*/
@@ -27,10 +37,10 @@ body{
     gap: 80px;/* utilizamosla propiedad de flex box*/
 }
 .header_menu_link{
-    font-family:"Montserrat", sans-serif;
+    font-family:var(--fuente-monserrat);
     font-size: 24px;
     font-weight: 600;
-    color: #22D4FD;
+    color: var(--color-terciario);
     text-decoration: none;
 }
 .presentacion{
@@ -55,15 +65,15 @@ body{
     gap: 40px;/*Sequiere crear espacio con gap, crea un espacio entre cada uno de los elementos*/
 } 
 .tituloNegrita{
-    color: #22D4FD;
+    color:var(--color-terciario);
 }
 .contenido__titulo{
-    font-family: "Krona One", sans-serif;/*fuente importada*/
+    font-family:var(--fuente-krona);/*fuente importada*/
     font-size: 36px;/*propiedadquese usa para la altura de lafuente*/
 }
 .contenido__texto{
     font-size: 24px;
-    font-family: "Montserrat", sans-serif;
+    font-family: var(--fuente-monserrat);
 }
 .enlaces{
     display: flex;
@@ -84,24 +94,24 @@ body{
                          el segundo valor es el horizontal espacio entre la palabra y el borde del boton*/  
      /*border-radius: 16px;para redondear las puntas del boton*/
     border-radius: 8px; /*para redondear las puntas del boton*/  
-    font-family: "Montserrat", sans-serif;  
+    font-family: var(--fuente-monserrat);  
     font-size:24px ;     
     font-weight: 600;
     text-decoration: none;/*para sacar las lineas debajo de las palabras en los botones*/
     /*color: #000000;*/
-    color: #f6f6f6;
+    color:var(--color-secundario);
     /*creamos elborde de los botones con border
         1) espesor del borde en px
         2) sepone el tipo de borde que deseamos usar
         3)color del borde
     */
-    border: 2px  solid #22D4FD;
+    border: 2px  solid var(--color-terciario);
     display: flex; /* se allinean la ing y el texto*/
     justify-content: center;/* parta centrar el contenido en el boton*/
     gap: 10px;/* espacio entre icono y el texto*/
 }
 .enlaces_subtitulos{
-    font-family: "Krona One", sans-serif;/*fuente importada*/
+    font-family: var(--fuente-krona);/*fuente importada*/
     font-size: 24px;
     font-weight: 400;
     
@@ -109,14 +119,14 @@ body{
 /*La idea es quecuando mueva el cursor y lo ponga sobre un boton cambiede color*/
 
 .enlaces__link:hover{
-    background-color: #272727;
+    background-color: var(--color-hover);
 }
 .footer{
-    background-color: #22D4FD;
+    background-color: var(--color-terciario);
     padding: 24px;/*crea un espacioentreel contenido y el borde*/
-    color: #000000;
+    color: var(--color-primario);
     text-align: center;
-    font-family:"Montserrat", sans-serif;  
+    font-family:var(--fuente-monserrat);  
     font-size: 24px;
     font-weight: 400;
 }
