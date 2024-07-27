@@ -77,6 +77,9 @@ body{
         3)color del borde
     */
     border: 2px  solid #22D4FD;
+    display: flex; /* se allinean la ing y el texto*/
+    justify-content: center;/* parta centrar el contenido en el boton*/
+    gap: 10px;/* espacio entre icono y el texto*/
 }
 .enlaces_subtitulos{
     font-family: "Krona One", sans-serif;/*fuente importada*/

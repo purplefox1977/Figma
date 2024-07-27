@@ -105,3 +105,16 @@ Realiza la estilización de los botones según el nuevo diseño.</p>
 <li>Para agregar un icono a un botón, usamos la etiqueta <img> y la propiedad src para indicar la ruta de la imagen.</li>
 </ol>
 <p>La ruta de la imagen se compone de la carpeta Assets, el nombre del archivo de la imagen y la extensión del archivo (por ejemplo, .png).</p>
+
+
+<h1>Posicionando los iconos</h1>
+
+
+<p>Convertimos enlaces en contenedores al colocar la etiqueta IMG dentro de ellos.   </p>
+<ol>
+<li>Usando la clase Link y la propiedad display: flex, alineamos los botones en una sola línea.</li>
+<li>Para centrar el contenido dentro de los botones, utilizamos la propiedad justifycontent: center.</li>
+
+<li>Finalmente, agregamos un espacio entre los iconos y las palabras usando un padding de 10px en la clase Link</li>
+</ol>
+
