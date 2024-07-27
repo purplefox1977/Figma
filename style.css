@@ -11,7 +11,7 @@ cambio universal en todo el HTML*/
 body{
     background-color: #000000;/*color delescritorio*/
     color: #f6f6f6;/*cambio el color de las letras*/
-    height: 100vh;/*cambio para q el body ocupe toda lapantalla*/
+    /*height: 100vh;cambio para q el body ocupe toda lapantalla*/
     box-sizing: border-box;/*Loselementos hijos quieren salir delelemento padre*/
     /*Posicionar elementos en la pantalla*/
 }
@@ -91,4 +91,13 @@ body{
 
 .enlaces__link:hover{
     background-color: #272727;
+}
+.footer{
+    background-color: #22D4FD;
+    padding: 24px;/*crea un espacioentreel contenido y el borde*/
+    color: #000000;
+    text-align: center;
+    font-family:"Montserrat", sans-serif;  
+    font-size: 24px;
+    font-weight: 400;
 }
