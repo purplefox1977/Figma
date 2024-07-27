@@ -1,4 +1,4 @@
-<h1>Figma del proyecto actualizado</h1>
+<h1>Figma del proyecto actualizado </h1>
 
 <p>nuestro proyecto de portafolio ha sido actualizado en Figma. 
 </p>
