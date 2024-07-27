@@ -118,3 +118,14 @@ Realiza la estilización de los botones según el nuevo diseño.</p>
 <li>Finalmente, agregamos un espacio entre los iconos y las palabras usando un padding de 10px en la clase Link</li>
 </ol>
 
+<h1>Hover(cambia decolor al ponerse el cursor)</h1>
+
+img hover
+
+https://www.w3schools.com/cssref/sel_hover.php
+
+<p> Los botones que cambian de color cuando el cursor se coloca sobre ellos. Esto se logra utilizando la propiedad hover en CSS.</p>
+<ol type='A'>
+<li>Primero, vimos un ejemplo de cómo aplicar hover a una etiqueta.</li>
+<li>Luego, aprendimos a aplicarlo a una clase, lo que nos permite cambiar el color de fondo de un botón cuando el cursor está sobre él.</li>
+ </ol>

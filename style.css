@@ -87,3 +87,8 @@ body{
     font-weight: 400;
     
 }
+/*La idea es quecuando mueva el cursor y lo ponga sobre un boton cambiede color*/
+
+.enlaces__link:hover{
+    background-color: #272727;
+}
