@@ -1,8 +1,12 @@
+
+![longitud](https://github.com/user-attachments/assets/4f8a25f1-e774-487a-af8f-15a9220ce6c3)
+
 <h1>La unidad de medida EM</h1>
 
 <p>Hacer que nuestro portafolio sea adaptable para que se pueda ver bien en diferentes dispositivos, como un iPhone o un iPad. Para esto, vamos a utilizar HTML y CSS, y vamos a aprender a usar unidades de medida.</p>
 
-img em
+![tamaño-em](https://github.com/user-attachments/assets/e742d4cc-8c6a-449f-9efd-5ed53a47bc5c)
+
 
 <p>La etiqueta hija es puesta dentro de la etiqueta padre .La etiqueta hija siempre va a tener una medida relativaa la etiqueta padre .</p>
 <p>Este tipo de medida es muy bueno utilizarce cuando tenemos varioshijos que no estan anidados dentro de un padre.</p>
@@ -33,7 +37,8 @@ https://www.w3schools.com/cssref/css_units.php
 
 <h1>Conociendo y aplicando la unidade REM</h1>
 
-img rem
+![tamaño-ren](https://github.com/user-attachments/assets/fd9991b5-b229-4f2b-aba8-d8242a405e08)
+
 <p> La unidad de medida REM en CSS.</p>
 
 <ol type="A">
@@ -45,6 +50,8 @@ img rem
 
 
 <h1>Descubre la súper unidad de medida</h1>
+
+![porcentaje](https://github.com/user-attachments/assets/b45ccce8-a975-4967-a947-74d2d716bd8f)
 
 
 <p>Como hacer que nuestro diseño web sea adaptable a diferentes tamaños de pantalla. Para ello, usamos porcentajes en lugar de píxeles para definir el ancho de los elementos.
