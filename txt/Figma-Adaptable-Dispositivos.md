@@ -52,7 +52,7 @@ img rem
 Por ejemplo, cambiamos el ancho de la imagen a un 50% para que se ajuste a la pantalla. También cambiamos el ancho de los botones y de la sección de contenido a un 50%.
 
 Usaremos la propiedad gap para crear espacio entre elementos.</p>
-
+imagen porciento
 <ol type="A">
 
 <li>Inspecciona tu código: Revisa tu código HTML y CSS. Asegúrate de que los elementos que deben ser adaptables tengan su ancho definido en porcentajes.</li>

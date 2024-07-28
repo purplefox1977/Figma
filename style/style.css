@@ -121,6 +121,9 @@ body{
 .enlaces__link:hover{
     background-color: var(--color-hover);
 }
+.presentacion_imagen{
+    
+}
 .footer{
     background-color: var(--color-terciario);
     padding: 24px;/*crea un espacioentreel contenido y el borde*/
