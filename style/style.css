@@ -56,9 +56,11 @@ body{
     
     justify-content:space-between;/* justify-content:Se crea espacios entre elementos 
                                     que estan muy pegados el uno al otro*/
-}  
+    gap: 82px;/* Se crea un espacio entre la clase seccion y la imagen*/
+                                }  
 .contenido{
-    width: 615px;/*Cambiar el tamaño de la seccion*/  
+    /*width: 615px;Cambiar el tamaño de la seccion*/  
+    width: 50%;/*Cambiar el tamaño de la seccion*/ 
     display: flex;/*Si agrego esto solo, se alinea como linea estose puede cambiar agregando flex-direction colum*/
     /* los elementos estan lejos unos de otros el texto y la img, tiene que ver con el margen puesto en la clase presentacion*/
     flex-direction: column;/*restaura a la posicion encolumnada*/
@@ -87,7 +89,8 @@ body{
 }
 .enlaces__link{
     /*width: 280px;ancho delboton*/
-    width: 378px;/*ancho delboton*/
+    /*width: 378px;ancho delboton*/
+    width: 50%;/*ancho delboton secambia % para que el tamaño no este fijo sino quevarie si cambia el tamaño de la pantalla*/
     /*background-color: #22D4FD;color de fondo*/
     text-align: center;/*alinear las palabras al medio del boton*/
     padding:21.5px 0px ;/*Ponemos 2 valores en lugar de 1, el primer valor el el valor del vertical
@@ -108,7 +111,7 @@ body{
     border: 2px  solid var(--color-terciario);
     display: flex; /* se allinean la ing y el texto*/
     justify-content: center;/* parta centrar el contenido en el boton*/
-    gap: 10px;/* espacio entre icono y el texto*/
+    gap: 16px;/* espacio entre icono y el texto*/
 }
 .enlaces_subtitulos{
     font-family: var(--fuente-krona);/*fuente importada*/
@@ -120,9 +123,11 @@ body{
 
 .enlaces__link:hover{
     background-color: var(--color-hover);
+
 }
 .presentacion_imagen{
-    width: 50%;
+    width: 50%;/* para quela imgen se redusca sisecambiade tamaño de pantalla*/
+
 }
 .footer{
     background-color: var(--color-terciario);

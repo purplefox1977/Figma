@@ -30,7 +30,9 @@ Vimos que "em" es útil para mantener la coherencia en el tamaño de la fuente d
   
 <li>Analiza el código CSS. Asegúrate de que estás utilizando correctamente la unidad "em" y que estás considerando el tamaño de la fuente del elemento padre.</li>
 </ol>
+
 <h3>Recuerda:</h3>
+
 <ol type='I'>
   
 <li>La unidad "em" es relativa al tamaño de la fuente del elemento padre.
@@ -55,17 +57,25 @@ https://www.w3schools.com/cssref/css_units.php
 <li>La ventaja de usar REM es que facilita la creación de diseños responsivos, ya que el tamaño de la fuente se escala proporcionalmente al tamaño de la fuente del elemento raíz.</li>
   
 <li> Como cambiar los valores de fontsize de diferentes elementos a REM, haciendo cálculos para convertir los valores de píxeles a REM </li>
+</ol>
 
 <p>Recuerda que la idea es que el tamaño de la fuente se adapte al tamaño de la pantalla, manteniendo la legibilidad y la estética del diseño.</p>
 
 
 <h1>Descubre la súper unidad de medida</h1>
 
-<p>Como hacer que nuestro diseño web sea adaptable a diferentes tamaños de pantalla. Para ello, usamos porcentajes en lugar de píxeles para definir el ancho de los elementos.
+<ol >
 
-Por ejemplo, cambiamos el ancho de la imagen a un 50% para que se ajuste a la pantalla. También cambiamos el ancho de los botones y de la sección de contenido a un 50%.
+<li>Primero, vimos que podemos usar la herramienta de inspección del navegador para ver cómo se ve nuestro diseño en diferentes dispositivos.</li>
 
-Usaremos la propiedad gap para crear espacio entre elementos.</p>
+<li>Luego, aprendimos que podemos usar porcentajes en lugar de píxeles para definir el tamaño de los elementos. Esto nos permite que los elementos se ajusten automáticamente al tamaño de la pantalla.</li>
+
+<li>Por ejemplo, si definimos que una imagen ocupa el 50% del ancho de la pantalla, la imagen se ajustará automáticamente al tamaño de la pantalla, ya sea que se esté viendo en un teléfono móvil, una tablet o una computadora de escritorio.</li>
+
+<li>También aprendimos que podemos usar la propiedad gap para crear espacio entre los elementos. Esto nos permite controlar el espacio entre los elementos, incluso cuando se ajustan al tamaño de la pantalla. </li>
+</ol>
+
+<p>En resumen, esta clase nos enseñó cómo hacer que nuestro diseño web sea adaptable a diferentes tamaños de pantalla usando porcentajes y la propiedad gap.</p>
 
 
 ![porcentaje](https://github.com/user-attachments/assets/b45ccce8-a975-4967-a947-74d2d716bd8f)
@@ -75,10 +85,53 @@ Usaremos la propiedad gap para crear espacio entre elementos.</p>
 
 <li>Inspecciona tu código: Revisa tu código HTML y CSS. Asegúrate de que los elementos que deben ser adaptables tengan su ancho definido en porcentajes.</li>
 
-<li>Prueba en diferentes dispositivos: Abre tu página web en diferentes navegadores y dispositivos (teléfono, tablet, computadora). Observa cómo se comporta el diseño en cada uno..</li>
+<li>Prueba en diferentes dispositivos: Abre tu página web en diferentes dispositivos, como un teléfono móvil, una tablet y una computadora de escritorio. Observa cómo se ve tu diseño en cada dispositivo. ¿Los elementos se ajustan correctamente al tamaño de la pantalla? ¿Hay algún elemento que se vea demasiado grande o demasiado pequeño? ¿Hay algún espacio extraño entre los elementos?</li>
 
-<li>Utiliza las herramientas de desarrollo: En tu navegador, abre las herramientas de desarrollo (generalmente presionando F12). Puedes usar la opción "Responsive Design Mode" para simular diferentes tamaños de pantalla y ver cómo se adapta tu diseño.</li>
+<li>Utiliza las herramientas de desarrollo: Utiliza las herramientas de desarrollo del navegador para inspeccionar tu código HTML y CSS. Busca las clases que definiste para los elementos y verifica que los valores de width y height estén expresados en porcentajes. También puedes usar las herramientas de desarrollo para ver cómo se ve tu diseño en diferentes tamaños de pantalla.</li>
 
-<li>Presta atención a los detalles: Observa si hay elementos que se superponen, si el texto se corta o si hay espacios demasiado grandes o pequeños. </li>
+<li>Analiza el código: Revisa tu código HTML y CSS para asegurarte de que estás usando las propiedades correctas para crear un diseño adaptable. Por ejemplo, asegúrate de que estás usando la propiedad gap para crear espacio entre los elementos. </li>
+
+</ol>
 
 <p>Recuerda: La adaptabilidad es un proceso iterativo. Es posible que tengas que hacer ajustes en tu código varias veces hasta que obtengas el resultado deseado.</p>
+
+
+<h1>Dev Tools - La mejor amiga de quien desarrolla</h1>
+
+<p>La herramienta de desarrollo (Dev Tool) es muy útil en el proceso de creación y desarrollo de proyectos web. Además de inspeccionar nuestros códigos HTML y CSS, podemos realizar algunos cambios temporales y nos muestra una vista previa en diferentes tamaños de pantalla y dispositivos, como tabletas y teléfonos móviles, lo cual es de gran ayuda al crear la versión móvil y toda la parte responsiva.</p>
+
+
+<p>Para abrir las Dev Tools, cuando tengas el navegador abierto, presiona las teclas CTRL + SHIFT + C en Chrome para Windows, o COMMAND + OPTION + C en Mac, o puedes hacer clic con el botón derecho del mouse en la pantalla del navegador y seleccionar "inspeccionar" en el menú desplegable. Mira:</p>
+
+<h2>Con las Dev Tools abiertas, puedes:</h2>
+
+<ol type="A">
+<li>Seleccionar el tipo de dispositivo (móvil, tableta, etc.);</li>
+
+<li>Inspeccionar los elementos HTML;</li>
+
+<li>Cambiar el tamaño de la pantalla;</li>
+
+<li>Cambiar temporalmente los estilos CSS de la página;</li>
+
+<li>Presionar las teclas CTRL + SHIFT + M para abrir la vista responsiva.</li>
+</ol>
+<p></p>
+
+<h1></h1>
+
+<p></p>
+
+
+
+<ol type="A">
+
+<li></li>
+
+<li></li>
+
+<li></li>
+
+<li> </li>
+</ol>
+<p></p>
