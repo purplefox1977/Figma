@@ -93,10 +93,15 @@ https://www.w3schools.com/cssref/css_units.php
 
 </ol>
 
+![img-dimensiones3](https://github.com/user-attachments/assets/6a8cd4a7-c0d6-426a-8c97-af70cc56289c)
+
+
 <p>Recuerda: La adaptabilidad es un proceso iterativo. Es posible que tengas que hacer ajustes en tu código varias veces hasta que obtengas el resultado deseado.</p>
 
 
 <h1>Dev Tools - La mejor amiga de quien desarrolla</h1>
+
+![dev1](https://github.com/user-attachments/assets/a8ffcbd1-074b-464e-b094-8ced0c8db1c8)
 
 <p>La herramienta de desarrollo (Dev Tool) es muy útil en el proceso de creación y desarrollo de proyectos web. Además de inspeccionar nuestros códigos HTML y CSS, podemos realizar algunos cambios temporales y nos muestra una vista previa en diferentes tamaños de pantalla y dispositivos, como tabletas y teléfonos móviles, lo cual es de gran ayuda al crear la versión móvil y toda la parte responsiva.</p>
 
@@ -104,6 +109,8 @@ https://www.w3schools.com/cssref/css_units.php
 <p>Para abrir las Dev Tools, cuando tengas el navegador abierto, presiona las teclas CTRL + SHIFT + C en Chrome para Windows, o COMMAND + OPTION + C en Mac, o puedes hacer clic con el botón derecho del mouse en la pantalla del navegador y seleccionar "inspeccionar" en el menú desplegable. Mira:</p>
 
 <h2>Con las Dev Tools abiertas, puedes:</h2>
+
+![dev2](https://github.com/user-attachments/assets/ab68631b-0835-4e2d-a300-93d237296e77)
 
 <ol type="A">
 <li>Seleccionar el tipo de dispositivo (móvil, tableta, etc.);</li>
