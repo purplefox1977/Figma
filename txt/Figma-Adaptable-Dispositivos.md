@@ -123,22 +123,25 @@ https://www.w3schools.com/cssref/css_units.php
 
 <li>Presionar las teclas CTRL + SHIFT + M para abrir la vista responsiva.</li>
 </ol>
-<p></p>
 
-<h1></h1>
+<h1>Resumen</h1>
 
-<p></p>
+<ol
 
+<li>Adaptando imágenes para diferentes tamaños de pantalla
 
+Estás trabajando en un sitio web y necesitas asegurarte de que las imágenes se adapten correctamente a diferentes tamaños de pantalla. Tu tarea es añadir una clase "presentacion__imagen" a las imágenes relevantes en el HTML y definir el ancho de esta clase como 50% en el CSS. Esto hará que las imágenes ocupen el 50% del ancho del elemento padre. Asegúrate de probar en diferentes anchos de pantalla, como 720px, para verificar la responsividad.</li>
 
-<ol type="A">
+<li>Ajustando el diseño para diferentes dispositivos
 
-<li></li>
+El diseño de tu sitio web necesita ser ajustado para diferentes dispositivos. Utiliza la herramienta "Inspeccionar" del navegador para simular diferentes tamaños de pantalla, como un portátil. Ajusta el diseño de la página para que se adapte de manera armoniosa en pantallas más pequeñas. Esto puede implicar cambiar márgenes, rellenos e incluso reorganizar elementos en la página.</li>
 
-<li></li>
+<li> Responsividad del contenido de texto
 
-<li></li>
+El contenido de texto de tu sitio web no se está adaptando bien a pantallas más pequeñas. Necesitas ajustar la clase ".presentacion__contenido" en el CSS para utilizar anchos relativos en lugar de fijos. Intenta definir el ancho como 50% y observa cómo el texto se adapta cuando cambias el tamaño de la pantalla. Recuerda que la responsividad es clave para una buena experiencia del usuario en dispositivos diversos.</li>
 
-<li> </li>
+<li>Mejorando la responsividad de los enlaces de navegación
+
+Los enlaces de navegación de tu sitio web no están funcionando adecuadamente en diferentes tamaños de pantalla. Tu tarea es ajustar la clase ".presentacion__enlaces__link" en el CSS. Cambia el ancho a un valor relativo, como 50%, y prueba en diferentes tamaños de pantalla. Observa cómo responden los enlaces a estos cambios y ajusta según sea necesario para garantizar una navegación fluida y accesible. </li>
 </ol>
-<p></p>
+
