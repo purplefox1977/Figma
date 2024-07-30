@@ -115,5 +115,17 @@ Finalmente, verifica y perfecciona el diseño del encabezado para pantallas más
 
 <p>Si disminullola pantalla, nuestro contenido esta comprimido entre los laterales ,se desforma. Esto ocurre por que en CSS(.presentacion) pusimos un padding  15% horizontalmente para nuestros elementos lo podemos cambiar en el @media .presentacion podemos poner un 5% para todos los lados( recordando que son cuatro), esto no produjo casi nigun cambio, por lo tanto se debe modificar algo mas en el codigo.</p>
 <p>Tenemos en la clase .presentacion_contenido o un width: 50%; silo cambiamos, mejora el contenido.Se utiliza el width: auto (porquesiempre se adapta alcontenido del padre). Si pongo el width :100% siempre va ser del 100% independiente del tamaño delcontenido, con el auto, el elemento no ocupa el 100% del elemento del padre </p>
-<p></p>
-<p></p>
+<ol>
+<h1>Resumen</h1>
+<li>Ajustando el espaciado para pantallas más pequeñas
+
+Estás trabajando en un proyecto web y notas que el diseño para pantallas más pequeñas necesita ser mejorado. El contenido parece estar "apretado" en el centro, debido al espacio excesivo en los laterales. Tu objetivo es ajustar el "padding" de la clase .presentacion en CSS para mejorar la visualización en dispositivos más pequeños.</li>
+
+<li>Refinando el ancho del contenido en dispositivos más pequeños
+
+Después de ajustar el espaciado, te das cuenta de que el contenido dentro de la clase .presentacion__contenido aún ocupa mucho espacio en pantallas más pequeñas. Tu desafío ahora es ajustar el ancho de esta clase para que se ajuste al nuevo "padding" aplicado en la clase .presentacion.</li>
+
+<li> Evaluando el efecto de "width: auto" en dispositivos más pequeños
+
+La última tarea implica evaluar el impacto del cambio de "width" a "auto" en la clase .presentacion__contenido. Necesitas verificar si el ancho del contenido se adapta correctamente al "padding" del 5% aplicado, asegurando una visualización adecuada en pantallas más pequeñas.</li>
+</ol>
