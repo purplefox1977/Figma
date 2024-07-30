@@ -140,6 +140,12 @@ body{
 }
 
 @media (max-width:1200px){
+    .header{
+        padding: 10%;
+    }
+    .header_menu{
+        justify-content: center;
+    }
     .presentacion{
         /*flex-direction: column; cuando se reduce la pantalla la imagen se va al final*/
         flex-direction: column-reverse;/*al reducirce la pantalla la imagen se encuentra en la parte superior*/

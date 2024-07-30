@@ -38,3 +38,26 @@ https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 </ol>
 
 <p>Recuerda que la práctica es fundamental para dominar los conceptos de responsividad. </p>
+
+<h1>Encabezado responsivo</h1>
+
+<p>Mirando nuestro diseño lo siguiente a ajustar es nuestro heder, colocando un espacio en la parte superior y tambien centralizarlo . Miramos como esta la clase heder en nuestro destok. </p>
+<p>Verificamos las medidas de nuestro heder y vamos a @media, a agregar un heder con los cambio deseados, para obtener el espasio del padding. </p>
+<p>Para centrar el heder utilizamos la clase heder_menu, esta clase ya tiene un display:flex ya que la clase lo tiene no nesecitamos agregarlo en la vercion del querie,vamos a media y ahi agregamos las modificaciones</p>
+<ol type='I'>
+
+<li>Primero, ajustamos el padding del encabezado en la versión de escritorio, reduciéndolo a un 10% en todos los lados.</li>
+
+<li>Luego, creamos una media query para ajustar el padding del encabezado en dispositivos más pequeños.</li>
+
+<li>Para centrar el encabezado horizontalmente, utilizamos la clase header menu que ya tenía un display flex y le agregamos la propiedad justify content: center</li>
+</ol>
+
+<ol >
+<li>¿Has ajustado el padding del encabezado en la versión de escritorio? Asegúrate de que el padding sea del 10% en todos los lados.</li>
+
+<li>¿Has creado una media query para ajustar el padding del encabezado en dispositivos más pequeños? La media query debe estar ubicada encima de la presentación y debe aplicar un padding del 10% al encabezado.</li>
+
+<li>¿Has utilizado la clase header menu para centrar el encabezado horizontalmente? Asegúrate de que la clase header menu ya tenga un display flex y que le hayas agregado la propiedad justify content: center.</li>
+
+</ol>
