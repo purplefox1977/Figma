@@ -149,5 +149,9 @@ body{
     .presentacion{
         /*flex-direction: column; cuando se reduce la pantalla la imagen se va al final*/
         flex-direction: column-reverse;/*al reducirce la pantalla la imagen se encuentra en la parte superior*/
+        padding: 5%;/*Esto no cambio casinada , en elcodigo se debe cambiar algo mas*/
+    }
+    .contenido{
+        width: auto;/*Como se tiene contenido y no sabemos que % poner se pone auto*/
     }
 }

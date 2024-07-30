@@ -109,3 +109,11 @@ Ahora que se ha ajustado el "padding" del encabezado, tu siguiente paso es centr
 
 Finalmente, verifica y perfecciona el diseño del encabezado para pantallas más pequeñas. Realiza los ajustes necesarios en el "padding" y en las propiedades de "flexbox" para que el encabezado esté visualmente alineado con el diseño de Figma. Prueba diferentes valores de "padding" y ajusta la propiedad "justify-content" para obtener el mejor resultado.</li>
 </ol>
+
+
+<h1>Hilando fino en nuestro proyecto</h1>
+
+<p>Si disminullola pantalla, nuestro contenido esta comprimido entre los laterales ,se desforma. Esto ocurre por que en CSS(.presentacion) pusimos un padding  15% horizontalmente para nuestros elementos lo podemos cambiar en el @media .presentacion podemos poner un 5% para todos los lados( recordando que son cuatro), esto no produjo casi nigun cambio, por lo tanto se debe modificar algo mas en el codigo.</p>
+<p>Tenemos en la clase .presentacion_contenido o un width: 50%; silo cambiamos, mejora el contenido.Se utiliza el width: auto (porquesiempre se adapta alcontenido del padre). Si pongo el width :100% siempre va ser del 100% independiente del tamaño delcontenido, con el auto, el elemento no ocupa el 100% del elemento del padre </p>
+<p></p>
+<p></p>
