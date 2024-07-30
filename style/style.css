@@ -138,3 +138,10 @@ body{
     font-size:  1.5rem;/*24px;*/
     font-weight: 400;
 }
+
+@media (max-width:1200px){
+    .presentacion{
+        /*flex-direction: column; cuando se reduce la pantalla la imagen se va al final*/
+        flex-direction: column-reverse;/*al reducirce la pantalla la imagen se encuentra en la parte superior*/
+    }
+}
