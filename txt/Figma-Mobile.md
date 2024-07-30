@@ -2,14 +2,21 @@
 <h2>Diseño responsivo</h2>
 <p>Por ejempo esta propiedad hace que, cuando la pestaña este en una determinada medida la imagen cambie de lugar.</p>
 
+![media](https://github.com/user-attachments/assets/2a83c258-a865-4bc7-b127-80e9c00b3e91)
+
+
 https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries
 
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 <p>Cuando nuestra pantalla tenga de maximo de 1200px tenga un detrminado comportamiento, que cambie para el modo Mobile que se creo en figma.En nuestro trabjo tenemos un Display-flex,y en nuestra estructura hay 2 elementos, no definimos un Flex-direction entonces por defecto  este flex -direction es una linea.Es por eso que la imagen y lostextos estan uno alado del otro </p>
 
+![media2](https://github.com/user-attachments/assets/ddb6d3a7-bf8d-4b92-8c14-0b99fe670e14)
+
 
 <p>Las Media Queries, una herramienta fundamental para crear diseños web responsivos.</p>
+
+![responsi](https://github.com/user-attachments/assets/c85e3ed1-48ef-4c86-9413-3bf0f68a4756)
 
 <ol type="A">
 <li>Las Media Queries nos permiten aplicar estilos específicos a nuestro sitio web dependiendo del tamaño de la pantalla del usuario. En este caso, vimos cómo usarlas para cambiar la disposición de los elementos en una página web cuando la pantalla tiene un ancho máximo de 1200 píxeles.</li>
