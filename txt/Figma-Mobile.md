@@ -43,7 +43,13 @@ https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 <p>Mirando nuestro diseño lo siguiente a ajustar es nuestro heder, colocando un espacio en la parte superior y tambien centralizarlo . Miramos como esta la clase heder en nuestro destok. </p>
 <p>Verificamos las medidas de nuestro heder y vamos a @media, a agregar un heder con los cambio deseados, para obtener el espasio del padding. </p>
+
+![pading](https://github.com/user-attachments/assets/a9b016bc-cd7b-4ce6-a16a-11b9d1dc387b)
+
 <p>Para centrar el heder utilizamos la clase heder_menu, esta clase ya tiene un display:flex ya que la clase lo tiene no nesecitamos agregarlo en la vercion del querie,vamos a media y ahi agregamos las modificaciones</p>
+
+![menu](https://github.com/user-attachments/assets/e29b8121-269c-4e69-a646-7fdc0e913fb4)
+
 <ol type='I'>
 
 <li>Primero, ajustamos el padding del encabezado en la versión de escritorio, reduciéndolo a un 10% en todos los lados.</li>
@@ -59,8 +65,9 @@ https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 <li>¿Has creado una media query para ajustar el padding del encabezado en dispositivos más pequeños? La media query debe estar ubicada encima de la presentación y debe aplicar un padding del 10% al encabezado.</li>
 
 <li>¿Has utilizado la clase header menu para centrar el encabezado horizontalmente? Asegúrate de que la clase header menu ya tenga un display flex y que le hayas agregado la propiedad justify content: center.</li>
-
 </ol>
+
+![vistaP](https://github.com/user-attachments/assets/7fd1c583-ee6c-4076-90de-bd59f0413008)
 
 <p>Podemos definir un ancho máximo de "480px" para el celular: @media (max-width: 480px), y en otra media query definir un ancho máximo de "800px" para las tabletas: @media (max-width: 800px), y luego asignamos los ajustes necesarios dentro de cada media query, de esta manera tendremos nuestro sitio 100% responsivo.</p>
 
